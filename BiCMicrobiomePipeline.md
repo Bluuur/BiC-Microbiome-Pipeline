@@ -6,7 +6,7 @@
 
 以下过程均在 ` Ubuntu 18.04 bionic(on the Windows Subsystem for Linux)` 系统下完成。
 
-本文连接：
+本文连接：[BiC-Microbiome-Pipeline/BiCMicrobiomePipeline.md at main · Bluuur/BiC-Microbiome-Pipeline (github.com)](https://github.com/Bluuur/BiC-Microbiome-Pipeline/blob/main/BiCMicrobiomePipeline.md)
 
 All Rights Reserve (C) 2023 Zidong Zh.
 
